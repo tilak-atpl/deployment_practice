@@ -7,6 +7,7 @@ function App() {
       <h2>Practicing the deployment process.</h2>
 
       <p>Happy! After Deploy This Simple Project!!!</p>
+      <p>Wooooo....Babe deployed second time😆😆😆😝😝😝🤣</p>
     </div>
   );
 }
